@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 181, No. 1615
 #+PROPERTY: VOL 181
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS P
 #+PROPERTY: LASTPB <pb:KR6s0007_P_002-0445a> 
 #+PROPERTY: JUAN 2
 大明三藏法數卷第二　　　　　　昆四¶
@@ -96,7 +96,7 @@
 【二不空如來藏】謂此心性具足無漏清
 <pb:KR6s0007_P_002-0448a>¶
 淨功德及諸有漏業惑染法包藏含攝無¶
-德不備無法不現故名不空如來藏。¶
+德不[佫-口+用]無法不現故名不空如來藏。¶
 
 二經體(出華嚴經䟽)
 【一文是所依體】文是所依體¶
@@ -729,7 +729,7 @@
 <pb:KR6s0007_P_002-0469a>¶
 身我名我衣物我田宅我行我住坐臥語¶
 言不離於我乃至我能布施持戒等因此¶
-顛倒備起一切煩惱生死行業聲聞之人¶
+顛倒[佫-口+用]起一切煩惱生死行業聲聞之人¶
 脩四真諦即了人法本空我亦無有故名¶
 二無我(四真諦者即苦集滅道也)。
 【一人無我】謂由攬五¶
